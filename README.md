@@ -75,7 +75,8 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 ## TABULATION  
 **Transmission through Digital Link**
-<img width="1409" height="1080" alt="image" src="https://github.com/user-attachments/assets/677b52a0-37ae-4789-9716-8413e9076f6e" />
+<img width="1000" height="1358" alt="image" src="https://github.com/user-attachments/assets/9c0dd732-9d0d-404e-b501-597efa2efce2" />
+
 
 ---
 
