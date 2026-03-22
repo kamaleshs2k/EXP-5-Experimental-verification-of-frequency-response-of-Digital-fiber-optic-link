@@ -89,4 +89,4 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus the relationship between input and received signal of a 660nm fiber optic cable using digital link is verified successfully
