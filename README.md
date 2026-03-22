@@ -75,16 +75,14 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 ## TABULATION  
 **Transmission through Digital Link**
-
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+<img width="1409" height="1080" alt="image" src="https://github.com/user-attachments/assets/677b52a0-37ae-4789-9716-8413e9076f6e" />
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="1409" height="1080" alt="image" src="https://github.com/user-attachments/assets/508d291f-00c9-4c61-9dae-c2c2806bcbda" />
+
 
 ---
 
